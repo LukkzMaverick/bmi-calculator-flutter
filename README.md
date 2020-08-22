@@ -3,6 +3,7 @@
 # BMI Calculator 
 
 Um aplicativo com um design bem legal, que calcula o IMC do usuário.
+Foi um desafio de um curso de Flutter que eu fiz da appbrewery
 
 ## Informações adicionais
 
